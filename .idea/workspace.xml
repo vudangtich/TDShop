@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcb42b5a-c45b-436d-a6f5-95cc347bffee" name="Default Changelist" comment="aaaaaaaaaaaaa" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pIQVfCnVq7w4feoY5s7cjb9oBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WEB\Online-Ecommerce\DTShop" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcb42b5a-c45b-436d-a6f5-95cc347bffee" name="Default Changelist" comment="" />
+      <created>1614868149371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614868149371</updated>
+      <workItem from="1614868150725" duration="2091000" />
+      <workItem from="1614874582698" duration="39000" />
+      <workItem from="1614874813361" duration="1256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1614876235584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="215" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614876235584" />
+    <state x="301" y="120" key="CommitChangelistDialog2" timestamp="1614868570026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="301" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614868570026" />
+    <state x="786" y="437" key="Github.CreateGistDialog" timestamp="1614874979055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="437" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614874979055" />
+    <state x="829" y="418" key="Github.ShareDialog" timestamp="1614875963175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614875963175" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1614874582146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614874582146" />
+    <state x="342" y="146" key="new project wizard" timestamp="1614874606363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1614874606363" />
+  </component>
+</project>
